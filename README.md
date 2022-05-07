@@ -10,3 +10,6 @@ Enter the data in a csv file in the format that is exported in Exported file.
 Do not leave blank lines
 ### [ExportedFile.csv](https://github.com/RKS200/Cars-Sale-Platform/blob/main/ExportedFile.csv)
 This is the csv file that is exported by the program which contains the data.
+
+
+**To Download:**[Click Here](https://github.com/RKS200/Cars-Sale-Platform/releases/tag/v2022.0)
