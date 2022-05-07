@@ -4,7 +4,7 @@ So, you should install pyrebase.
 ### [main.py](https://github.com/RKS200/Cars-Sale-Platform/blob/main/main.py)
 This file is a python file which **contains the main code**.You Should Run it. 
 ### [Data.pyrebaseConfig](https://github.com/RKS200/Cars-Sale-Platform/blob/main/Data.pyrebaseConfig)
-This file contains the details like api key,database URLs etc.It is serialized using **pickle** :smiley:.
+This file contains the details like api key,database URLs etc.It is serialized using **pickle**.
 ### [ImportFile.csv](https://github.com/RKS200/Cars-Sale-Platform/blob/main/ImportFile.csv)
 Enter the data in a csv file in the format that is exported in Exported file.
 Do not leave blank lines
