@@ -12,4 +12,4 @@ Do not leave blank lines
 This is the csv file that is exported by the program which contains the data.
 
 
-**To Download:**[Click Here](https://github.com/RKS200/Cars-Sale-Platform/releases/tag/v2022.0)
+**To Download: **[Click Here](https://github.com/RKS200/Cars-Sale-Platform/releases/tag/v2022.0)
